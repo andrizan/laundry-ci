@@ -1,3 +1,3 @@
 # laundry-ci
 silahkan setting database dan bash_url anda terlebih dahulu
-Jika ada bug silahkan laporkan
+#Jika ada bug silahkan laporkan
